@@ -1,16 +1,26 @@
-## Hi there 👋
+- Domingos de Castro Filho
 
-<!--
-**DOMINGOSDECASTROFILHO/DOMINGOSDECASTROFILHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Co-founder — Biocontroll Soluções Digitais**
+Hardware Integration • Web3 Integration API/SDK • Brasil / EUA / America Latina
 
-Here are some ideas to get you started:
+- Sobre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Domingos de Castro Filho é trader, engenheiro e empreendedor de tecnologia,
+co-fundador da Biocontroll, empresa dedicada a integração de hardware
+e ao desenvolvimento de APIs e SDKs para aplicações Web3.
+
+Atua na customização de integrações entre sistemas legados de hardware
+e infraestrutura descentralizada, com operações no Brasil, Estados Unidos e 
+Mercados Futuros Paraguay.
+
+Áreas de atuação
+- Trader/P2p
+- Integração de hardware e middleware
+- APIs e SDKs para Web3
+- Infraestrutura de rede e conectividade
+- Arquitetura de integrações corporativas
+
+Contato
+
+- Site: https://www.biocontroll.com
+- LinkedIn: Domingos de Castro filho
