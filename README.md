@@ -14,13 +14,16 @@ e infraestrutura descentralizada, com operações no Brasil, Estados Unidos e
 Mercados Futuros Paraguay.
 
 Áreas de atuação
-- Trader/P2p
 - Integração de hardware e middleware
 - APIs e SDKs para Web3
 - Infraestrutura de rede e conectividade
 - Arquitetura de integrações corporativas
+- Trader/P2p
 
 Contato
 
-- Site: https://www.biocontroll.com
+www.biocontroll.com
+https://biocontroll.com/domingos-de-castro-filho
+https://www.linkedin.com/in/domingos-de-castro-filho
+
 - LinkedIn: Domingos de Castro filho
