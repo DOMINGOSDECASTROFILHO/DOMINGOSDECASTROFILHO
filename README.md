@@ -5,7 +5,7 @@ Hardware Integration • Web3 Integration API/SDK • Brasil / EUA / America Lat
 
 - Sobre
 
-Domingos de Castro Filho Engenheiro, Trader e empreendedor de tecnologia,
+Domingos de Castro Filho Engenheiro, trader e empreendedor de tecnologia,
 co-fundador da Biocontroll, empresa dedicada a integração de hardware
 e ao desenvolvimento de APIs e SDKs para aplicações Web3.
 
