@@ -1,12 +1,11 @@
 - Domingos de Castro Filho
 
-**Co-founder — Biocontroll Soluções Digitais**
+**Founder — Biocontroll Soluções Digitais**
 Hardware Integration • Web3 Integration API/SDK • Brasil / EUA / America Latina
 
 - Sobre
 
-Domingos de Castro Filho Engenheiro, trader e empreendedor de tecnologia,
-co-fundador da Biocontroll, empresa dedicada a integração de hardware
+Domingos de Castro Filho Engenheiro, trader e empreendedor de tecnologia, fundador da Biocontroll, empresa dedicada a integração de hardware
 e ao desenvolvimento de APIs e SDKs para aplicações Web3.
 
 Atua na customização de integrações entre sistemas legados de hardware
