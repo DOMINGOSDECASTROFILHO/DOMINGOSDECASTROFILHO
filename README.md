@@ -21,8 +21,7 @@ Mercados Futuros Paraguay.
 - Trader/P2p
 
 Contato
-
-www.biocontroll.com
+https://biocontroll.com
 https://biocontroll.com/domingos-de-castro-filho
 https://www.linkedin.com/in/domingos-de-castro-filho
 
